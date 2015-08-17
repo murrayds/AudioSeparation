@@ -1,0 +1,1 @@
+function W = trainInterference_prior(V, priorW, priorH)
